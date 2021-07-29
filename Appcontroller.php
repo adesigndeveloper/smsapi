@@ -2,7 +2,7 @@
     $apiKey = urlencode('add api key here, which is provide by sms getway documentation ');
     
     // Message details
-    $numbers =918441099365;
+    $numbers =918441099367;
     $sender = urlencode('TXTLCL');
     $message = rawurlencode('This is your message');
  
